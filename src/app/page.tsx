@@ -1,6 +1,7 @@
 import AboutUs from "./components/AboutUs";
 import NavBar from "./components/NavBar";
 import Carrousel from "./components/carrousel";
+import Marcas from "./components/marcas";
 
 
 export default function Home() {
@@ -9,6 +10,7 @@ export default function Home() {
       <NavBar />
       <Carrousel/>
       <AboutUs/>
+      <Marcas/>
     </div>
   );
 }

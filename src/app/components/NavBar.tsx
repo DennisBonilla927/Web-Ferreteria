@@ -7,7 +7,7 @@ const NavBar = () => {
         <a href="" className="flex items-center space-x-3 rtl:space-x-reverse">
           <img 
             src="logo-ecuaimco.png" 
-            className="h-10 mx-7" 
+            className="h-10 mx-20" 
             alt="Flowbite Logo" 
           />
 
